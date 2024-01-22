@@ -1,0 +1,97 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-77f8053f.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-6e0eadfb.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/js/auth/reset-password.js": {
+    "file": "assets/reset-password-cdd1cb6c.js",
+    "isEntry": true,
+    "src": "resources/js/auth/reset-password.js"
+  },
+  "resources/js/auth/two-steps.js": {
+    "file": "assets/two-steps-9e208beb.js",
+    "isEntry": true,
+    "src": "resources/js/auth/two-steps.js"
+  },
+  "resources/js/book-categories/index.js": {
+    "file": "assets/index-e833f9fb.js",
+    "isEntry": true,
+    "src": "resources/js/book-categories/index.js"
+  },
+  "resources/js/books/index.js": {
+    "file": "assets/index-8f3f797e.js",
+    "isEntry": true,
+    "src": "resources/js/books/index.js"
+  },
+  "resources/js/classes/index.js": {
+    "file": "assets/index-594b3efc.js",
+    "isEntry": true,
+    "src": "resources/js/classes/index.js"
+  },
+  "resources/js/dashboard/index.js": {
+    "file": "assets/index-beb7c94b.js",
+    "isEntry": true,
+    "src": "resources/js/dashboard/index.js"
+  },
+  "resources/js/firebase.js": {
+    "file": "assets/firebase-c93e3e54.js",
+    "isEntry": true,
+    "src": "resources/js/firebase.js"
+  },
+  "resources/js/genres/index.js": {
+    "file": "assets/index-132b954d.js",
+    "isEntry": true,
+    "src": "resources/js/genres/index.js"
+  },
+  "resources/js/modules/child/index.js": {
+    "file": "assets/index-dfa5250c.js",
+    "isEntry": true,
+    "src": "resources/js/modules/child/index.js"
+  },
+  "resources/js/modules/groups/index.js": {
+    "file": "assets/index-26f3cfa0.js",
+    "isEntry": true,
+    "src": "resources/js/modules/groups/index.js"
+  },
+  "resources/js/modules/parent/index.js": {
+    "file": "assets/index-48d8997f.js",
+    "isEntry": true,
+    "src": "resources/js/modules/parent/index.js"
+  },
+  "resources/js/profile/index.js": {
+    "file": "assets/index-0fd471b7.js",
+    "isEntry": true,
+    "src": "resources/js/profile/index.js"
+  },
+  "resources/js/profile/two-factor-authentication.js": {
+    "file": "assets/two-factor-authentication-9c9bb30c.js",
+    "isEntry": true,
+    "src": "resources/js/profile/two-factor-authentication.js"
+  },
+  "resources/js/roles/index.js": {
+    "file": "assets/index-bde7b7ca.js",
+    "isEntry": true,
+    "src": "resources/js/roles/index.js"
+  },
+  "resources/js/shelves/index.js": {
+    "file": "assets/index-116fca12.js",
+    "isEntry": true,
+    "src": "resources/js/shelves/index.js"
+  },
+  "resources/js/students/index.js": {
+    "file": "assets/index-969c11d0.js",
+    "isEntry": true,
+    "src": "resources/js/students/index.js"
+  },
+  "resources/js/users/index.js": {
+    "file": "assets/index-eb020fbf.js",
+    "isEntry": true,
+    "src": "resources/js/users/index.js"
+  }
+}
